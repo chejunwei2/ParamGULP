@@ -1,6 +1,9 @@
 # ParamGULP Program for Obtaining Interatomic Potential Parameters for GULP
 This code is developed by José Diogo L.Dutra et al. I just share the code in the Github.
-If you use this code, please cite it: Dutra J D L, Bispo T D, de Freitas S M, et al. ParamGULP: An efficient Python code for obtaining interatomic potential parameters for General Utility Lattice Program[J]. Computer Physics Communications, 2021, 265: 107996.
+If you use this code, please cite it: 
+```
+Dutra J D L, Bispo T D, de Freitas S M, et al. ParamGULP: An efficient Python code for obtaining interatomic potential parameters for General Utility Lattice Program[J]. Computer Physics Communications, 2021, 265: 107996.
+```
 
 General Utility Lattice Program (GULP) is an important software commonly used to study several 
 properties of solid materials by means of an extensive list of interatomic potentials. 
