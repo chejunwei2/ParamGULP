@@ -1,0 +1,30 @@
+fit relax conp opti comp c6 prop phonon
+name ex04
+cell
+3.938 3.938 6.128 90.0 90.0 120.0
+frac 
+la core 0.33333333 0.66666667 0.245 
+la shel 0.33333333 0.66666667 0.245 
+o  core 0.00000000 0.00000000 0.000
+o  shel 0.00000000 0.00000000 0.000
+o  core 0.33333333 0.66666667 0.645
+o  shel 0.33333333 0.66666667 0.645
+space
+164
+buck
+la shel o shel 5700.52 0.29885 38.9365 24.0 1 0 0
+buck
+o  shel o shel 576.94 0.33536 20.0 1 0 0
+buck
+la shel la shel 85791.74 0.2203 6.863 20.0 1 0 0
+spring
+la 460.0 0
+spring
+o  27.0 0
+cuts 1.0
+species
+la core  9.0
+la shel -6.0
+o  core  0.5
+o  shel -2.5
+dump example4.grs

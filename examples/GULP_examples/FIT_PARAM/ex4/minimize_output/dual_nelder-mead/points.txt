@@ -1,0 +1,1120 @@
+1
+PARAM_0                5700.5200
+PARAM_1                 576.9400
+PARAM_2               85791.7400
+Objective Function = 1.6288060907689965e+03
+2
+PARAM_0                3750.6776
+PARAM_1                 427.0976
+PARAM_2               65841.8976
+Objective Function = 1.0000000000000000e+30
+3
+PARAM_0                6780.8575
+PARAM_1                 757.2775
+PARAM_2               19572.7590
+Objective Function = 3.8442855660115092e+04
+4
+PARAM_0                1414.7070
+PARAM_1                 791.1270
+PARAM_2               39100.9839
+Objective Function = 1.3716509840786010e+06
+5
+PARAM_0                9140.8004
+PARAM_1                 576.9400
+PARAM_2               85791.7400
+Objective Function = 3.4493179574225581e+05
+6
+PARAM_0                5700.5200
+PARAM_1                 338.3346
+PARAM_2               85791.7400
+Objective Function = 4.5813439911240084e+03
+7
+PARAM_0                5700.5200
+PARAM_1                 576.9400
+PARAM_2               20272.1303
+Objective Function = 2.0373438942460155e+03
+8
+PARAM_0                5985.5460
+PARAM_1                 576.9400
+PARAM_2               85791.7400
+Objective Function = 4.5767922215399688e+02
+9
+PARAM_0                5700.5200
+PARAM_1                 605.7870
+PARAM_2               85791.7400
+Objective Function = 1.3778498734049895e+03
+10
+PARAM_0                5700.5200
+PARAM_1                 576.9400
+PARAM_2               90081.3270
+Objective Function = 1.6042178097619985e+03
+11
+PARAM_0                5890.5373
+PARAM_1                 596.1713
+PARAM_2               88651.4647
+Objective Function = 1.5501677578001257e+01
+12
+PARAM_0                5985.5460
+PARAM_1                 605.7870
+PARAM_2               90081.3270
+Objective Function = 6.1246931539799641e+02
+13
+PARAM_0                6017.2156
+PARAM_1                 608.9922
+PARAM_2               83408.6361
+Objective Function = 9.8177391522099413e+02
+14
+PARAM_0                6228.3459
+PARAM_1                 582.2820
+PARAM_2               86109.4872
+Objective Function = 5.2755217885500278e+03
+15
+PARAM_0                5832.4765
+PARAM_1                 599.9108
+PARAM_2               85871.1768
+Objective Function = 8.5269486392999625e+01
+16
+PARAM_0                5788.4910
+PARAM_1                 573.0225
+PARAM_2               90134.2849
+Objective Function = 4.5370688200399866e+02
+17
+PARAM_0                5688.7905
+PARAM_1                 602.4631
+PARAM_2               90646.2109
+Objective Function = 1.5777636851680104e+03
+18
+PARAM_0                5911.3571
+PARAM_1                 583.3208
+PARAM_2               87005.3577
+Objective Function = 4.3754986255000574e+01
+19
+PARAM_0                5967.7563
+PARAM_1                 613.2461
+PARAM_2               84217.7146
+Objective Function = 4.5863190066900910e+02
+20
+PARAM_0                5833.3073
+PARAM_1                 583.0784
+PARAM_2               88655.1423
+Objective Function = 1.1420900884500149e+02
+21
+PARAM_0                5922.9400
+PARAM_1                 603.1902
+PARAM_2               85696.8572
+Objective Function = 1.2099453242399689e+02
+22
+PARAM_0                5855.7155
+PARAM_1                 588.1063
+PARAM_2               87915.5710
+Objective Function = 3.1002956592000718e+01
+23
+PARAM_0                5939.2635
+PARAM_1                 578.4882
+PARAM_2               89843.7521
+Objective Function = 1.4564017880100297e+02
+24
+PARAM_0                5859.1732
+PARAM_1                 594.5551
+PARAM_2               86864.3206
+Objective Function = 1.8717674371998701e+01
+25
+PARAM_0                5825.5936
+PARAM_1                 602.5678
+PARAM_2               88615.5465
+Objective Function = 1.0434425715000143e+02
+26
+PARAM_0                5889.9162
+PARAM_1                 588.1325
+PARAM_2               87407.9049
+Objective Function = 9.5760673360003441e+00
+27
+PARAM_0                5904.0357
+PARAM_1                 597.7996
+PARAM_2               87366.8891
+Objective Function = 4.4021186233002965e+01
+28
+PARAM_0                5867.7955
+PARAM_1                 590.5297
+PARAM_2               87778.4005
+Objective Function = 9.8729584180001861e+00
+29
+PARAM_0                5906.3262
+PARAM_1                 588.6672
+PARAM_2               89027.5261
+Objective Function = 3.9317210390998220e+01
+30
+PARAM_0                5870.9615
+PARAM_1                 593.0831
+PARAM_2               87405.1220
+Objective Function = 6.4880851320003776e+00
+31
+PARAM_0                5861.9115
+PARAM_1                 584.9922
+PARAM_2               86409.4870
+Objective Function = 2.2700715839998274e+01
+32
+PARAM_0                5883.3809
+PARAM_1                 593.3766
+PARAM_2               88090.9702
+Objective Function = 6.6960249389998534e+00
+33
+PARAM_0                5895.0435
+PARAM_1                 592.5318
+PARAM_2               87490.9309
+Objective Function = 1.9023033162000470e+01
+34
+PARAM_0                5874.6075
+PARAM_1                 591.0302
+PARAM_2               87706.5331
+Objective Function = 5.2944623599996854e+00
+35
+PARAM_0                5862.7170
+PARAM_1                 596.8608
+PARAM_2               88060.5120
+Objective Function = 1.1688712042000034e+01
+36
+PARAM_0                5883.1164
+PARAM_1                 590.3146
+PARAM_2               87571.0567
+Objective Function = 5.7059206089996328e+00
+37
+PARAM_0                5869.0761
+PARAM_1                 589.5754
+PARAM_2               87030.8376
+Objective Function = 9.3537910429992159e+00
+38
+PARAM_0                5879.8047
+PARAM_1                 592.4263
+PARAM_2               87825.9371
+Objective Function = 4.9867023419998837e+00
+39
+PARAM_0                5887.3910
+PARAM_1                 589.4309
+PARAM_2               87997.2293
+Objective Function = 8.1063739879998309e+00
+40
+PARAM_0                5875.0688
+PARAM_1                 592.1701
+PARAM_2               87553.1488
+Objective Function = 5.0096158480001902e+00
+41
+PARAM_0                5869.8709
+PARAM_1                 593.4365
+PARAM_2               87819.3560
+Objective Function = 6.9578863859999327e+00
+42
+PARAM_0                5879.8051
+PARAM_1                 591.0950
+PARAM_2               87633.1315
+Objective Function = 4.8590410280001795e+00
+43
+PARAM_0                5881.8449
+PARAM_1                 592.7641
+PARAM_2               87634.9452
+Objective Function = 5.6818354459996181e+00
+44
+PARAM_0                5876.4169
+PARAM_1                 591.4637
+PARAM_2               87688.6361
+Objective Function = 4.8244007499999766e+00
+45
+PARAM_0                5882.2822
+PARAM_1                 591.1532
+PARAM_2               87878.6543
+Objective Function = 5.5686706249998821e+00
+46
+PARAM_0                5876.8722
+PARAM_1                 591.9159
+PARAM_2               87634.5252
+Objective Function = 4.7498239080000424e+00
+47
+PARAM_0                5875.5914
+PARAM_1                 590.5568
+PARAM_2               87478.2581
+Objective Function = 5.1033741300001232e+00
+48
+PARAM_0                5878.7514
+PARAM_1                 591.9589
+PARAM_2               87739.0174
+Objective Function = 4.7755848140000996e+00
+49
+PARAM_0                5874.8885
+PARAM_1                 592.4639
+PARAM_2               87741.6543
+Objective Function = 4.9992627619999741e+00
+50
+PARAM_0                5878.5759
+PARAM_1                 591.4373
+PARAM_2               87660.2622
+Objective Function = 4.7424578280000897e+00
+51
+PARAM_0                5879.7161
+PARAM_1                 592.0777
+PARAM_2               87667.2337
+Objective Function = 4.9244886699998611e+00
+52
+PARAM_0                5877.2417
+PARAM_1                 591.6172
+PARAM_2               87683.2855
+Objective Function = 4.7370684670000021e+00
+53
+PARAM_0                5876.3752
+PARAM_1                 591.3546
+PARAM_2               87579.6979
+Objective Function = 4.8449256089999819e+00
+54
+PARAM_0                5878.1573
+PARAM_1                 591.8078
+PARAM_2               87699.1875
+Objective Function = 4.7281872270000518e+00
+55
+PARAM_0                5879.1111
+PARAM_1                 591.3256
+PARAM_2               87727.2983
+Objective Function = 4.7843978320001277e+00
+56
+PARAM_0                5877.4319
+PARAM_1                 591.7683
+PARAM_2               87657.7185
+Objective Function = 4.7251497499999857e+00
+57
+PARAM_0                5876.6447
+PARAM_1                 592.0249
+PARAM_2               87699.8655
+Objective Function = 4.7609697930000410e+00
+58
+PARAM_0                5878.0931
+PARAM_1                 591.5842
+PARAM_2               87670.1630
+Objective Function = 4.7244344450000346e+00
+59
+PARAM_0                5878.5466
+PARAM_1                 591.8230
+PARAM_2               87668.0938
+Objective Function = 4.7504859250001052e+00
+60
+PARAM_0                5877.5679
+PARAM_1                 591.6686
+PARAM_2               87679.4876
+Objective Function = 4.7233985889999826e+00
+61
+PARAM_0                5877.2380
+PARAM_1                 591.5396
+PARAM_2               87639.0586
+Objective Function = 4.7410591530000099e+00
+62
+PARAM_0                5877.9275
+PARAM_1                 591.7408
+PARAM_2               87684.1553
+Objective Function = 4.7213358870000022e+00
+63
+PARAM_0                5878.2937
+PARAM_1                 591.5608
+PARAM_2               87698.1521
+Objective Function = 4.7308127469999857e+00
+64
+PARAM_0                5877.6474
+PARAM_1                 591.7164
+PARAM_2               87667.8269
+Objective Function = 4.7213036610000145e+00
+65
+PARAM_0                5877.3354
+PARAM_1                 591.8330
+PARAM_2               87684.1501
+Objective Function = 4.7260388700000178e+00
+66
+PARAM_0                5877.9037
+PARAM_1                 591.6464
+PARAM_2               87673.6598
+Objective Function = 4.7213625099999827e+00
+67
+PARAM_0                5878.0845
+PARAM_1                 591.7338
+PARAM_2               87670.9404
+Objective Function = 4.7249788580000311e+00
+68
+PARAM_0                5877.6970
+PARAM_1                 591.6849
+PARAM_2               87677.3508
+Objective Function = 4.7212475440000130e+00
+69
+PARAM_0                5877.6109
+PARAM_1                 591.7817
+PARAM_2               87679.2288
+Objective Function = 4.7208567360000471e+00
+70
+PARAM_0                5877.4645
+PARAM_1                 591.8493
+PARAM_2               87682.0133
+Objective Function = 4.7220576400000613e+00
+71
+PARAM_0                5877.3761
+PARAM_1                 591.7146
+PARAM_2               87665.4491
+Objective Function = 4.7282353679999973e+00
+72
+PARAM_0                5877.7896
+PARAM_1                 591.7342
+PARAM_2               87679.4787
+Objective Function = 4.7205092069999983e+00
+73
+PARAM_0                5877.7510
+PARAM_1                 591.7508
+PARAM_2               87689.5453
+Objective Function = 4.7202860960000201e+00
+74
+PARAM_0                5877.8028
+PARAM_1                 591.7680
+PARAM_2               87700.4046
+Objective Function = 4.7198886570000029e+00
+75
+PARAM_0                5877.7719
+PARAM_1                 591.8377
+PARAM_2               87695.3906
+Objective Function = 4.7196427679999760e+00
+76
+PARAM_0                5877.8093
+PARAM_1                 591.9140
+PARAM_2               87704.4105
+Objective Function = 4.7195602379999730e+00
+77
+PARAM_0                5877.9902
+PARAM_1                 591.8291
+PARAM_2               87710.3004
+Objective Function = 4.7227842450000246e+00
+78
+PARAM_0                5877.7057
+PARAM_1                 591.7935
+PARAM_2               87686.9967
+Objective Function = 4.7199113870000406e+00
+79
+PARAM_0                5877.7556
+PARAM_1                 591.9161
+PARAM_2               87715.0625
+Objective Function = 4.7187448429999943e+00
+80
+PARAM_0                5877.7386
+PARAM_1                 592.0071
+PARAM_2               87732.8544
+Objective Function = 4.7183177609999927e+00
+81
+PARAM_0                5877.8614
+PARAM_1                 591.9992
+PARAM_2               87738.1163
+Objective Function = 4.7203078199999782e+00
+82
+PARAM_0                5877.7447
+PARAM_1                 591.8450
+PARAM_2               87699.7766
+Objective Function = 4.7194317450000014e+00
+83
+PARAM_0                5877.7255
+PARAM_1                 592.0761
+PARAM_2               87724.2898
+Objective Function = 4.7180968679999866e+00
+84
+PARAM_0                5877.6869
+PARAM_1                 592.2302
+PARAM_2               87736.2324
+Objective Function = 4.7173564080000387e+00
+85
+PARAM_0                5877.6375
+PARAM_1                 592.1408
+PARAM_2               87741.4984
+Objective Function = 4.7169910990000163e+00
+86
+PARAM_0                5877.5516
+PARAM_1                 592.2542
+PARAM_2               87760.0423
+Objective Function = 4.7155032070000171e+00
+87
+PARAM_0                5877.5734
+PARAM_1                 592.4827
+PARAM_2               87786.3094
+Objective Function = 4.7154889599999823e+00
+88
+PARAM_0                5877.4878
+PARAM_1                 592.8015
+PARAM_2               87829.5758
+Objective Function = 4.7145013930000639e+00
+89
+PARAM_0                5877.4122
+PARAM_1                 592.8501
+PARAM_2               87817.7126
+Objective Function = 4.7128008830000550e+00
+90
+PARAM_0                5877.2490
+PARAM_1                 593.2716
+PARAM_2               87860.1417
+Objective Function = 4.7105762709999750e+00
+91
+PARAM_0                5877.1720
+PARAM_1                 593.3213
+PARAM_2               87896.9409
+Objective Function = 4.7087631240000061e+00
+92
+PARAM_0                5876.9146
+PARAM_1                 593.8669
+PARAM_2               87977.2951
+Objective Function = 4.7048030720000149e+00
+93
+PARAM_0                5876.8827
+PARAM_1                 594.3725
+PARAM_2               88017.9661
+Objective Function = 4.7097309589999714e+00
+94
+PARAM_0                5876.5431
+PARAM_1                 594.8726
+PARAM_2               88074.0262
+Objective Function = 4.7018865019999270e+00
+95
+PARAM_0                5876.0708
+PARAM_1                 595.9081
+PARAM_2               88196.2513
+Objective Function = 4.6965752189999650e+00
+96
+PARAM_0                5875.9964
+PARAM_1                 596.1601
+PARAM_2               88267.5333
+Objective Function = 4.6984764480000525e+00
+97
+PARAM_0                5875.7718
+PARAM_1                 596.2509
+PARAM_2               88276.0870
+Objective Function = 4.6880066260000763e+00
+98
+PARAM_0                5875.2164
+PARAM_1                 597.1900
+PARAM_2               88405.1475
+Objective Function = 4.6774146939999781e+00
+99
+PARAM_0                5874.6078
+PARAM_1                 598.9719
+PARAM_2               88601.9930
+Objective Function = 4.6816005790000590e+00
+100
+PARAM_0                5874.6003
+PARAM_1                 598.5532
+PARAM_2               88534.7279
+Objective Function = 4.6703846450000359e+00
+101
+PARAM_0                5873.9023
+PARAM_1                 599.7498
+PARAM_2               88668.3252
+Objective Function = 4.6567036620000675e+00
+102
+PARAM_0                5873.0801
+PARAM_1                 601.3664
+PARAM_2               88920.7258
+Objective Function = 4.6450134769999698e+00
+103
+PARAM_0                5871.5848
+PARAM_1                 604.0955
+PARAM_2               89282.9630
+Objective Function = 4.6192151830000334e+00
+104
+PARAM_0                5872.5279
+PARAM_1                 601.7183
+PARAM_2               88968.9641
+Objective Function = 4.6279398810000174e+00
+105
+PARAM_0                5870.1269
+PARAM_1                 606.5191
+PARAM_2               89541.6873
+Objective Function = 4.5897021049999678e+00
+106
+PARAM_0                5867.5821
+PARAM_1                 611.1836
+PARAM_2               90109.9573
+Objective Function = 4.5461072400000457e+00
+107
+PARAM_0                5867.2276
+PARAM_1                 611.5819
+PARAM_2               90239.5977
+Objective Function = 4.5375313719999690e+00
+108
+PARAM_0                5863.8903
+PARAM_1                 617.4979
+PARAM_2               91025.2340
+Objective Function = 4.4794066180000645e+00
+109
+PARAM_0                5862.8436
+PARAM_1                 620.1330
+PARAM_2               91309.8054
+Objective Function = 4.4708171849999534e+00
+110
+PARAM_0                5858.0015
+PARAM_1                 629.3403
+PARAM_2               92480.2260
+Objective Function = 4.3980285699999913e+00
+111
+PARAM_0                5854.7311
+PARAM_1                 634.5857
+PARAM_2               93127.3152
+Objective Function = 4.3261824910000488e+00
+112
+PARAM_0                5846.3042
+PARAM_1                 649.8307
+PARAM_2               95049.4913
+Objective Function = 4.1830972450000159e+00
+113
+PARAM_0                5844.5485
+PARAM_1                 653.2624
+PARAM_2               95593.3436
+Objective Function = 4.1563829570000017e+00
+114
+PARAM_0                5833.0318
+PARAM_1                 674.3018
+PARAM_2               98335.0368
+Objective Function = 3.9664479590001074e+00
+115
+PARAM_0                5827.6680
+PARAM_1                 684.8173
+PARAM_2               99551.2688
+Objective Function = 3.8928974280001141e+00
+116
+PARAM_0                5846.8347
+PARAM_1                 649.4951
+PARAM_2               95062.7458
+Objective Function = 4.2025122570000617e+00
+117
+PARAM_0                5841.2514
+PARAM_1                 659.5725
+PARAM_2               96354.0057
+Objective Function = 4.1062889880000899e+00
+118
+PARAM_0                5840.1440
+PARAM_1                 661.3640
+PARAM_2               96564.7975
+Objective Function = 4.0836455760000092e+00
+119
+PARAM_0                5825.9778
+PARAM_1                 687.4162
+PARAM_2               99946.7297
+Objective Function = 3.8542677129999783e+00
+120
+PARAM_0                5834.5183
+PARAM_1                 671.7712
+PARAM_2               97921.2380
+Objective Function = 3.9930613879999948e+00
+121
+PARAM_0                5831.7054
+PARAM_1                 676.9748
+PARAM_2               98599.4582
+Objective Function = 3.9481508140000132e+00
+122
+PARAM_0                5830.7411
+PARAM_1                 678.6856
+PARAM_2               98850.4279
+Objective Function = 3.9317523470000206e+00
+123
+PARAM_0                5829.9172
+PARAM_1                 680.3073
+PARAM_2               99024.4668
+Objective Function = 3.9201786319999927e+00
+124
+PARAM_0                5829.2977
+PARAM_1                 681.4329
+PARAM_2               99178.9581
+Objective Function = 3.9101175589999722e+00
+125
+PARAM_0                5828.7825
+PARAM_1                 682.4314
+PARAM_2               99291.7262
+Objective Function = 3.9025610630000571e+00
+126
+PARAM_0                5828.3869
+PARAM_1                 683.1606
+PARAM_2               99387.7665
+Objective Function = 3.8964680130000349e+00
+127
+PARAM_0                5825.9060
+PARAM_1                 687.8314
+PARAM_2               99965.4505
+Objective Function = 3.8587881200001011e+00
+128
+PARAM_0                5827.4521
+PARAM_1                 684.9244
+PARAM_2               99604.4581
+Objective Function = 3.8822351800000385e+00
+129
+PARAM_0                5827.0567
+PARAM_1                 685.7707
+PARAM_2               99695.0741
+Objective Function = 3.8786444069999275e+00
+130
+PARAM_0                5826.8828
+PARAM_1                 685.9653
+PARAM_2               99736.7714
+Objective Function = 3.8729781170000290e+00
+131
+PARAM_0                5826.6561
+PARAM_1                 686.4208
+PARAM_2               99789.0290
+Objective Function = 3.8703176150001024e+00
+132
+PARAM_0                5826.5314
+PARAM_1                 686.5940
+PARAM_2               99818.5872
+Objective Function = 3.8671952540000332e+00
+133
+PARAM_0                5826.3973
+PARAM_1                 686.8507
+PARAM_2               99849.6424
+Objective Function = 3.8651367079999925e+00
+134
+PARAM_0                5826.3125
+PARAM_1                 686.9800
+PARAM_2               99869.5974
+Objective Function = 3.8631204019999732e+00
+135
+PARAM_0                5826.2313
+PARAM_1                 687.1299
+PARAM_2               99888.4508
+Objective Function = 3.8618501900000619e+00
+136
+PARAM_0                5825.7642
+PARAM_1                 687.9383
+PARAM_2               99997.4899
+Objective Function = 3.8532695520000200e+00
+137
+PARAM_0                5826.0570
+PARAM_1                 687.4293
+PARAM_2               99929.1704
+Objective Function = 3.8584411959999958e+00
+138
+PARAM_0                5825.9600
+PARAM_1                 687.3578
+PARAM_2               99950.1429
+Objective Function = 3.8525296630000510e+00
+139
+PARAM_0                5825.9871
+PARAM_1                 687.1210
+PARAM_2               99942.4891
+Objective Function = 3.8508978030000005e+00
+140
+PARAM_0                5825.7624
+PARAM_1                 687.5544
+PARAM_2               99995.3020
+Objective Function = 3.8472149049999986e+00
+141
+PARAM_0                5825.9079
+PARAM_1                 687.4770
+PARAM_2               99962.5784
+Objective Function = 3.8522191790000067e+00
+142
+PARAM_0                5826.0073
+PARAM_1                 686.8300
+PARAM_2               99936.0897
+Objective Function = 3.8492822449999702e+00
+143
+PARAM_0                5825.9300
+PARAM_1                 686.8599
+PARAM_2               99953.3422
+Objective Function = 3.8476136019999796e+00
+144
+PARAM_0                5825.8127
+PARAM_1                 687.0418
+PARAM_2               99980.6669
+Objective Function = 3.8458611019999802e+00
+145
+PARAM_0                5825.7256
+PARAM_1                 687.0022
+PARAM_2               99999.7558
+Objective Function = 3.8447362569999539e+00
+146
+PARAM_0                5825.9067
+PARAM_1                 686.9844
+PARAM_2               99959.4449
+Objective Function = 3.8474497560000485e+00
+147
+PARAM_0                5825.8641
+PARAM_1                 687.0201
+PARAM_2               99969.0882
+Objective Function = 3.8467720160000445e+00
+148
+PARAM_0                5825.8453
+PARAM_1                 687.0883
+PARAM_2               99973.7468
+Objective Function = 3.8463851549999908e+00
+149
+PARAM_0                5825.8610
+PARAM_1                 686.5194
+PARAM_2               99966.4252
+Objective Function = 3.8483454919999738e+00
+150
+PARAM_0                5825.7870
+PARAM_1                 687.2956
+PARAM_2               99988.0828
+Objective Function = 3.8461172080000137e+00
+151
+PARAM_0                5825.8250
+PARAM_1                 687.0744
+PARAM_2               99978.1417
+Objective Function = 3.8463127199999940e+00
+152
+PARAM_0                5825.8123
+PARAM_1                 687.1062
+PARAM_2               99981.2034
+Objective Function = 3.8457744840000174e+00
+153
+PARAM_0                5825.8000
+PARAM_1                 687.1046
+PARAM_2               99983.9112
+Objective Function = 3.8455358109999578e+00
+154
+PARAM_0                5825.7715
+PARAM_1                 686.8464
+PARAM_2               99988.4975
+Objective Function = 3.8457196090000165e+00
+155
+PARAM_0                5825.7890
+PARAM_1                 687.0453
+PARAM_2               99985.9625
+Objective Function = 3.8454965370000398e+00
+156
+PARAM_0                5825.7715
+PARAM_1                 687.2550
+PARAM_2               99991.2555
+Objective Function = 3.8453360279999744e+00
+157
+PARAM_0                5825.7810
+PARAM_1                 687.1027
+PARAM_2               99988.1179
+Objective Function = 3.8451732710000233e+00
+158
+PARAM_0                5825.7742
+PARAM_1                 687.0826
+PARAM_2               99989.5028
+Objective Function = 3.8453075179999869e+00
+159
+PARAM_0                5825.7490
+PARAM_1                 686.8700
+PARAM_2               99993.6622
+Objective Function = 3.8455324880000004e+00
+160
+PARAM_0                5825.7659
+PARAM_1                 687.1588
+PARAM_2               99991.8572
+Objective Function = 3.8450396170000047e+00
+161
+PARAM_0                5825.7408
+PARAM_1                 687.0932
+PARAM_2               99996.9845
+Objective Function = 3.8448179810000118e+00
+162
+PARAM_0                5825.7626
+PARAM_1                 687.0937
+PARAM_2               99992.1585
+Objective Function = 3.8451901629999972e+00
+163
+PARAM_0                5825.7332
+PARAM_1                 687.0477
+PARAM_2               99998.3702
+Objective Function = 3.8446788940000500e+00
+164
+PARAM_0                5825.7457
+PARAM_1                 687.0805
+PARAM_2               99995.8065
+Objective Function = 3.8448445530000344e+00
+165
+PARAM_0                5825.7533
+PARAM_1                 687.0525
+PARAM_2               99993.9369
+Objective Function = 3.8448999659999838e+00
+166
+PARAM_0                5825.7441
+PARAM_1                 687.0480
+PARAM_2               99995.9572
+Objective Function = 3.8447786960000210e+00
+167
+PARAM_0                5825.7400
+PARAM_1                 687.0566
+PARAM_2               99996.9171
+Objective Function = 3.8447897920000322e+00
+168
+PARAM_0                5825.7285
+PARAM_1                 687.0087
+PARAM_2               99999.1383
+Objective Function = 3.8445871010000312e+00
+169
+PARAM_0                5825.7366
+PARAM_1                 687.0338
+PARAM_2               99997.5226
+Objective Function = 3.8446771289999861e+00
+170
+PARAM_0                5825.7400
+PARAM_1                 687.0579
+PARAM_2               99996.9316
+Objective Function = 3.8447349870000345e+00
+171
+PARAM_0                5825.7364
+PARAM_1                 687.0440
+PARAM_2               99997.6377
+Objective Function = 3.8446999980000345e+00
+172
+PARAM_0                5825.7292
+PARAM_1                 687.0161
+PARAM_2               99999.0498
+Objective Function = 3.8445911720000114e+00
+173
+PARAM_0                5825.7297
+PARAM_1                 686.9914
+PARAM_2               99998.7703
+Objective Function = 3.8447778889999622e+00
+174
+PARAM_0                5825.7323
+PARAM_1                 687.0336
+PARAM_2               99998.4702
+Objective Function = 3.8446289999999887e+00
+175
+PARAM_0                5825.7333
+PARAM_1                 687.0266
+PARAM_2               99998.2044
+Objective Function = 3.8446523579999985e+00
+176
+PARAM_0                5825.7267
+PARAM_1                 687.0124
+PARAM_2               99999.5678
+Objective Function = 3.8445894060000256e+00
+177
+PARAM_0                5825.7302
+PARAM_1                 687.0230
+PARAM_2               99998.8611
+Objective Function = 3.8446397109999970e+00
+178
+PARAM_0                5825.7276
+PARAM_1                 687.0105
+PARAM_2               99999.3531
+Objective Function = 3.8445871010000312e+00
+179
+PARAM_0                5825.7289
+PARAM_1                 687.0124
+PARAM_2               99999.0940
+Objective Function = 3.8445559370000004e+00
+180
+PARAM_0                5825.7304
+PARAM_1                 687.0212
+PARAM_2               99998.8043
+Objective Function = 3.8445849500000215e+00
+181
+PARAM_0                5825.7309
+PARAM_1                 687.0177
+PARAM_2               99998.6713
+Objective Function = 3.8445633050000074e+00
+182
+PARAM_0                5825.7316
+PARAM_1                 687.0255
+PARAM_2               99998.5748
+Objective Function = 3.8446152629999863e+00
+183
+PARAM_0                5825.7293
+PARAM_1                 687.0129
+PARAM_2               99998.9974
+Objective Function = 3.8445652890000099e+00
+184
+PARAM_0                5825.7290
+PARAM_1                 687.0075
+PARAM_2               99999.0376
+Objective Function = 3.8445847980000378e+00
+185
+PARAM_0                5825.7293
+PARAM_1                 687.0109
+PARAM_2               99998.9793
+Objective Function = 3.8446148930000277e+00
+186
+PARAM_0                5825.7299
+PARAM_1                 687.0150
+PARAM_2               99998.8827
+Objective Function = 3.8445911720000114e+00
+187
+PARAM_0                5825.7291
+PARAM_1                 687.0127
+PARAM_2               99999.0457
+Objective Function = 3.8445606090000219e+00
+188
+PARAM_0                5825.7296
+PARAM_1                 687.0168
+PARAM_2               99998.9492
+Objective Function = 3.8446006440000211e+00
+189
+PARAM_0                5825.7289
+PARAM_1                 687.0100
+PARAM_2               99999.0658
+Objective Function = 3.8446032780000232e+00
+190
+PARAM_0                5825.7295
+PARAM_1                 687.0151
+PARAM_2               99998.9783
+Objective Function = 3.8445864480000234e+00
+191
+PARAM_0                5825.7284
+PARAM_1                 687.0117
+PARAM_2               99999.1960
+Objective Function = 3.8446079180000119e+00
+192
+PARAM_0                5825.7295
+PARAM_1                 687.0142
+PARAM_2               99998.9610
+Objective Function = 3.8445793770000076e+00
+193
+PARAM_0                5825.7288
+PARAM_1                 687.0111
+PARAM_2               99999.0889
+Objective Function = 3.8446102410000389e+00
+194
+PARAM_0                5825.7293
+PARAM_1                 687.0141
+PARAM_2               99999.0060
+Objective Function = 3.8445746730000199e+00
+195
+PARAM_0                5825.7287
+PARAM_1                 687.0119
+PARAM_2               99999.1361
+Objective Function = 3.8445489440000182e+00
+196
+PARAM_0                5825.7282
+PARAM_1                 687.0107
+PARAM_2               99999.2237
+Objective Function = 3.8445986460000352e+00
+197
+PARAM_0                5825.7284
+PARAM_1                 687.0106
+PARAM_2               99999.1780
+Objective Function = 3.8446009610000296e+00
+198
+PARAM_0                5825.7291
+PARAM_1                 687.0132
+PARAM_2               99999.0490
+Objective Function = 3.8445652890000099e+00
+199
+PARAM_0                5825.7286
+PARAM_1                 687.0114
+PARAM_2               99999.1350
+Objective Function = 3.8446102410000389e+00
+200
+PARAM_0                5825.7290
+PARAM_1                 687.0128
+PARAM_2               99999.0705
+Objective Function = 3.8445606090000219e+00
+201
+PARAM_0                5825.7288
+PARAM_1                 687.0119
+PARAM_2               99999.1135
+Objective Function = 3.8445512730000124e+00
+202
+PARAM_0                5825.7284
+PARAM_1                 687.0115
+PARAM_2               99999.1834
+Objective Function = 3.8446079180000119e+00
+203
+PARAM_0                5825.7289
+PARAM_1                 687.0124
+PARAM_2               99999.0802
+Objective Function = 3.8445559370000004e+00
+204
+PARAM_0                5825.7286
+PARAM_1                 687.0118
+PARAM_2               99999.1490
+Objective Function = 3.8445466170000238e+00
+205
+PARAM_0                5825.7285
+PARAM_1                 687.0113
+PARAM_2               99999.1717
+Objective Function = 3.8446079180000119e+00
+206
+PARAM_0                5825.7288
+PARAM_1                 687.0121
+PARAM_2               99999.1135
+Objective Function = 3.8445512730000124e+00
+207
+PARAM_0                5825.7286
+PARAM_1                 687.0116
+PARAM_2               99999.1523
+Objective Function = 3.8445442920000299e+00
+208
+PARAM_0                5825.7285
+PARAM_1                 687.0116
+PARAM_2               99999.1781
+Objective Function = 3.8446102410000389e+00
+209
+PARAM_0                5825.7287
+PARAM_1                 687.0118
+PARAM_2               99999.1296
+Objective Function = 3.8445489440000182e+00
+210
+PARAM_0                5825.7285
+PARAM_1                 687.0117
+PARAM_2               99999.1619
+Objective Function = 3.8445442920000299e+00
+211
+PARAM_0                5825.7285
+PARAM_1                 687.0114
+PARAM_2               99999.1726
+Objective Function = 3.8446079180000119e+00
+212
+PARAM_0                5825.7286
+PARAM_1                 687.0118
+PARAM_2               99999.1453
+Objective Function = 3.8445466170000238e+00
+213
+PARAM_0                5825.7285
+PARAM_1                 687.0116
+PARAM_2               99999.1635
+Objective Function = 3.8446102410000389e+00
+214
+PARAM_0                5825.7286
+PARAM_1                 687.0117
+PARAM_2               99999.1498
+Objective Function = 3.8445466170000238e+00
+215
+PARAM_0                5825.7286
+PARAM_1                 687.0116
+PARAM_2               99999.1571
+Objective Function = 3.8445442920000299e+00
+216
+PARAM_0                5825.7286
+PARAM_1                 687.0117
+PARAM_2               99999.1506
+Objective Function = 3.8445466170000238e+00
+217
+PARAM_0                5825.7286
+PARAM_1                 687.0117
+PARAM_2               99999.1488
+Objective Function = 3.8445466170000238e+00
+218
+PARAM_0                5825.7285
+PARAM_1                 687.0116
+PARAM_2               99999.1579
+Objective Function = 3.8446102410000389e+00
+219
+PARAM_0                5825.7286
+PARAM_1                 687.0116
+PARAM_2               99999.1510
+Objective Function = 3.8445442920000299e+00
+220
+PARAM_0                5825.7286
+PARAM_1                 687.0116
+PARAM_2               99999.1563
+Objective Function = 3.8445442920000299e+00
+221
+PARAM_0                5825.7286
+PARAM_1                 687.0116
+PARAM_2               99999.1549
+Objective Function = 3.8445442920000299e+00
+222
+PARAM_0                5825.7286
+PARAM_1                 687.0116
+PARAM_2               99999.1520
+Objective Function = 3.8445442920000299e+00
+223
+PARAM_0                5825.7286
+PARAM_1                 687.0116
+PARAM_2               99999.1542
+Objective Function = 3.8445442920000299e+00
+224
+PARAM_0                5825.7286
+PARAM_1                 687.0116
+PARAM_2               99999.1547
+Objective Function = 3.8445442920000299e+00

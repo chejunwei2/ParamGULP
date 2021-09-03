@@ -1,0 +1,1 @@
+ex14  cell_abc 1000.0  cell_xyz 10000.0  elastic 0.01  hfdlc 1.0  sdlc 1.0  

@@ -1,0 +1,31 @@
+fit relax conp prop opti comp phon noden simplex
+name ex09
+cell
+   4.212000   4.212000   4.212000  90.000000  90.000000  90.000000
+fractional    3
+Mg   core  0.000000   0.000000   0.000000    2.000000 1.0000 0.00000
+O    core  0.500000   0.500000   0.500000    0.800000 1.0000 0.00000
+O    bshe  0.500000   0.500000   0.500000   -2.800000 1.0000 1.12468
+space
+225
+observables
+elastic 
+ 1 1  298.00
+elastic
+ 1 2   95.00
+elastic
+ 4 4  152.00
+sdlc
+ 1 1   9.86
+hfdlc
+ 1 1   2.96
+end
+buck
+Mg   core O    shel      25.869392 0.304124    0.00000  0.000 10.000 1 1 0
+spring
+O       45.228027 1
+bsm
+O  shel      315.371060      1.200000 1 0
+buck
+O    shel O    shel       0.000000 0.300000   36.00000  0.000 10.000 0 0 0
+dump example9.grs
