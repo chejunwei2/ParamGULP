@@ -2,7 +2,7 @@
 This code is developed by José Diogo L.Dutra et al. I just share the code in the Github.
 If you use this code, please cite it: 
 ```
-Dutra, J. D. L., Bispo, T. D., de Freitas, S. M., & Rezende, M. V. D. S. (2021). ParamGULP: An efficient Python code for obtaining interatomic potential parameters for General Utility Lattice Program. Computer Physics Communications, 265, 107996.
+Dutra, José Diogo L., et al. "ParamGULP: An efficient Python code for obtaining interatomic potential parameters for General Utility Lattice Program." Computer Physics Communications 265 (2021): 107996
 ```
 
 General Utility Lattice Program (GULP) is an important software commonly used to study several 
